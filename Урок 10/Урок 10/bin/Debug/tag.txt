@@ -1,0 +1,27 @@
+25
+<HTML></HTML>
+<HEAD></HEAD>
+<BODY></BODY>
+<title> </title>
+<meta name=" " content=" ">
+<font color=?></font>
+<HR width=size= >
+<h1></h1>
+<h6></h6>
+<p>
+<BR>
+<b></b>
+<i></i>
+<tt></tt>
+<cite></cite>
+<em></em>
+<a href="URL">ТЕКСТ</a>
+<ol></ol>
+<ul></ul>
+<li>
+<img src="name">
+<table></table>
+<tr></tr>	
+<td></td>
+<th></th>
+

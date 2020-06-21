@@ -1,0 +1,11 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\bin\Debug\Massivi Zadanie 3.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\bin\Debug\Massivi Zadanie 3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\bin\Debug\Massivi Zadanie 3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi Zadanie 3.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi_Zadanie_3.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi_Zadanie_3.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi Zadanie 3.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi Zadanie 3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi Zadanie 3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\bin\Debug\Resources\Screenshot_1.jpg
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Massivi Zadanie 3\Massivi Zadanie 3\obj\Debug\Massivi Zadanie 3.csproj.CoreCompileInputs.cache

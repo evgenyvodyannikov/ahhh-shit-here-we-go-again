@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\bin\Debug\Urok 11 Vodyannikov Primeri 1-3.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\bin\Debug\Urok 11 Vodyannikov Primeri 1-3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\bin\Debug\Urok 11 Vodyannikov Primeri 1-3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok 11 Vodyannikov Primeri 1-3.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok_11_Vodyannikov_Primeri_1_3.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok 11 Vodyannikov Primeri 1-3.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok 11 Vodyannikov Primeri 1-3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok 11 Vodyannikov Primeri 1-3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 11 Vodyannikov Primeri 1-3\Urok 11 Vodyannikov Primeri 1-3\obj\Debug\Urok_11_Vodyannikov_Primeri_1_3.Zadanie1.resources

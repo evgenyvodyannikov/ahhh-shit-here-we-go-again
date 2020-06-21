@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\bin\Debug\Practic 8 IS-201 Vodyannikov.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\bin\Debug\Practic 8 IS-201 Vodyannikov.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\bin\Debug\Practic 8 IS-201 Vodyannikov.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic 8 IS-201 Vodyannikov.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic_8_IS_201_Vodyannikov.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic_8_IS_201_Vodyannikov.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic 8 IS-201 Vodyannikov.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic 8 IS-201 Vodyannikov.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Practic 8 IS-201 Vodyannikov\Practic 8 IS-201 Vodyannikov\obj\Debug\Practic 8 IS-201 Vodyannikov.pdb

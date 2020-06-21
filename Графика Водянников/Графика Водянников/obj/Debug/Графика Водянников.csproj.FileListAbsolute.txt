@@ -1,0 +1,14 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Графика Водянников.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Графика Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Графика Водянников.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика Водянников.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика_Водянников.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика_Водянников.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика Водянников.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика Водянников.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\obj\Debug\Графика Водянников.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Resources\4.png
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Resources\3.png
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Resources\2.png
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Графика Водянников\Графика Водянников\bin\Debug\Resources\1.png

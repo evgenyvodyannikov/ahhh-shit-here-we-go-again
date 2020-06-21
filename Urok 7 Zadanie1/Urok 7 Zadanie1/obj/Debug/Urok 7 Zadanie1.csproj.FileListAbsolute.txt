@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\bin\Debug\Urok 7 Zadanie1.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\bin\Debug\Urok 7 Zadanie1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\bin\Debug\Urok 7 Zadanie1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok 7 Zadanie1.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok_7_Zadanie1.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok_7_Zadanie1.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok 7 Zadanie1.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok 7 Zadanie1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 7 Zadanie1\Urok 7 Zadanie1\obj\Debug\Urok 7 Zadanie1.pdb

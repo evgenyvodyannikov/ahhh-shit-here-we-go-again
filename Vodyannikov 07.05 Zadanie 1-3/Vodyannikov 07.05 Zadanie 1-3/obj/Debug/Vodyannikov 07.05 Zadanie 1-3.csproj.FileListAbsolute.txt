@@ -1,0 +1,13 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\bin\Debug\Vodyannikov 07.05 Zadanie 1-3.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\bin\Debug\Vodyannikov 07.05 Zadanie 1-3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\bin\Debug\Vodyannikov 07.05 Zadanie 1-3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov 07.05 Zadanie 1-3.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov_07._05_Zadanie_1_3.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov_07._05_Zadanie_1_3.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov 07.05 Zadanie 1-3.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov 07.05 Zadanie 1-3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov 07.05 Zadanie 1-3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov_07._05_Zadanie_1_3.Zadanie1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov_07._05_Zadanie_1_3.Zadanie2.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\obj\Debug\Vodyannikov_07._05_Zadanie_1_3.Zadanie3.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov 07.05 Zadanie 1-3\Vodyannikov 07.05 Zadanie 1-3\bin\Debug\Resources\thumb-1920-749437.jpg

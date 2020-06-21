@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\bin\Debug\timer3.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\bin\Debug\timer3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\bin\Debug\timer3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\bin\Debug\Properties\EWyZ-1.bmp
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer3\timer3\obj\Debug\timer3.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\vodya\OneDrive\Рабочий стол\Водянников РПМ 25.04 (Лекция)\Водянников РПМ 25.04 (Лекция)\obj\Debug\Водянников РПМ 25.04 (Лекция).csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Водянников РПМ 25.04 (Лекция)\Водянников РПМ 25.04 (Лекция)\obj\Debug\Водянников_РПМ_25._04__Лекция_.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Водянников РПМ 25.04 (Лекция)\Водянников РПМ 25.04 (Лекция)\obj\Debug\Водянников РПМ 25.04 (Лекция).csproj.GenerateResource.cache

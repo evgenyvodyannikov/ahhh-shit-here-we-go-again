@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\bin\Debug\Samostoyat Massivy 1.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\bin\Debug\Samostoyat Massivy 1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\bin\Debug\Samostoyat Massivy 1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat Massivy 1.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat_Massivy_1.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat_Massivy_1.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat Massivy 1.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat Massivy 1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Samostoyat Massivy 1\Samostoyat Massivy 1\obj\Debug\Samostoyat Massivy 1.pdb

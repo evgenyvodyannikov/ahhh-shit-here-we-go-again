@@ -1,0 +1,18 @@
+H:\Проекты и т.п\Урок 10\Урок 10\bin\Debug\Урок 10.exe.config
+H:\Проекты и т.п\Урок 10\Урок 10\bin\Debug\Урок 10.exe
+H:\Проекты и т.п\Урок 10\Урок 10\bin\Debug\Урок 10.pdb
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок 10.csprojAssemblyReference.cache
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок_10.Form1.resources
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок_10.Properties.Resources.resources
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок 10.csproj.GenerateResource.cache
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок 10.exe
+H:\Проекты и т.п\Урок 10\Урок 10\obj\Debug\Урок 10.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\bin\Debug\Урок 10.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\bin\Debug\Урок 10.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\bin\Debug\Урок 10.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок 10.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок_10.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок_10.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок 10.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок 10.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Урок 10\Урок 10\obj\Debug\Урок 10.pdb

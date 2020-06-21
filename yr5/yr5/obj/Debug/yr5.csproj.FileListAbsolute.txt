@@ -1,0 +1,27 @@
+H:\РПМ\yr5\yr5\bin\Debug\yr5.exe.config
+H:\РПМ\yr5\yr5\bin\Debug\yr5.exe
+H:\РПМ\yr5\yr5\bin\Debug\yr5.pdb
+H:\РПМ\yr5\yr5\obj\Debug\yr5.csprojAssemblyReference.cache
+H:\РПМ\yr5\yr5\obj\Debug\yr5.Form1.resources
+H:\РПМ\yr5\yr5\obj\Debug\yr5.Properties.Resources.resources
+H:\РПМ\yr5\yr5\obj\Debug\yr5.csproj.GenerateResource.cache
+H:\РПМ\yr5\yr5\obj\Debug\yr5.exe
+H:\РПМ\yr5\yr5\obj\Debug\yr5.pdb
+H:\Проекты и т.п\yr5\yr5\bin\Debug\yr5.exe.config
+H:\Проекты и т.п\yr5\yr5\bin\Debug\yr5.exe
+H:\Проекты и т.п\yr5\yr5\bin\Debug\yr5.pdb
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.csprojAssemblyReference.cache
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.Form1.resources
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.Properties.Resources.resources
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.csproj.GenerateResource.cache
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.exe
+H:\Проекты и т.п\yr5\yr5\obj\Debug\yr5.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.exe
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.exe
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.pdb

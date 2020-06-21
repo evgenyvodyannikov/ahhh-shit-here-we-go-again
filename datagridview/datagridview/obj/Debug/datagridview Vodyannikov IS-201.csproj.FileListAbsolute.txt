@@ -1,0 +1,20 @@
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\bin\Debug\datagridview.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\bin\Debug\datagridview.exe
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\bin\Debug\datagridview.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview Vodyannikov IS-201.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview Vodyannikov IS-201.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview.exe
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\obj\Debug\datagridview.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\datagridview\datagridview\bin\Debug\Database2.mdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\bin\Debug\datagridview.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\bin\Debug\datagridview.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\bin\Debug\datagridview.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview Vodyannikov IS-201.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview Vodyannikov IS-201.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\obj\Debug\datagridview.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\datagridview\bin\Debug\Properties\Database2.mdb

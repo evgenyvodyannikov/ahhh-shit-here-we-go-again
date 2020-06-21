@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\bin\Debug\timer Zadanie2.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\bin\Debug\timer Zadanie2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\bin\Debug\timer Zadanie2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer_Zadanie2.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer_Zadanie2.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer Zadanie2.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer Zadanie2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer Zadanie2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\timer Zadanie2\timer Zadanie2\obj\Debug\timer Zadanie2.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\bin\Debug\Пример 8 13.05 Водянников.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\bin\Debug\Пример 8 13.05 Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\bin\Debug\Пример 8 13.05 Водянников.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример 8 13.05 Водянников.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример_8_13._05_Водянников.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример_8_13._05_Водянников.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример 8 13.05 Водянников.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример 8 13.05 Водянников.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример 8 13.05 Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Пример 8 13.05 Водянников\Пример 8 13.05 Водянников\obj\Debug\Пример 8 13.05 Водянников.pdb

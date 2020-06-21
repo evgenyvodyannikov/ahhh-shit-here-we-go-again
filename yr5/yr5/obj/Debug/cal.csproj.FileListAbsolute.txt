@@ -1,0 +1,8 @@
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.exe
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\bin\Debug\yr5.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.exe
+C:\Users\vodya\OneDrive\Рабочий стол\yr5\yr5\obj\Debug\yr5.pdb

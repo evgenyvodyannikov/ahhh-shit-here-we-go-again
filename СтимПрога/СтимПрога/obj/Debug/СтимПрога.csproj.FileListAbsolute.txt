@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\bin\Debug\СтимПрога.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\bin\Debug\СтимПрога.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\bin\Debug\СтимПрога.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\СтимПрога\СтимПрога\obj\Debug\СтимПрога.pdb

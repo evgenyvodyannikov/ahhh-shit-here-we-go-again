@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\bin\Debug\Urok 9 Vodyannikov 24.04.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\bin\Debug\Urok 9 Vodyannikov 24.04.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\bin\Debug\Urok 9 Vodyannikov 24.04.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok 9 Vodyannikov 24.04.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok_9_Vodyannikov_24._04.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok_9_Vodyannikov_24._04.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok 9 Vodyannikov 24.04.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok 9 Vodyannikov 24.04.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 9 Vodyannikov 24.04\Urok 9 Vodyannikov 24.04\obj\Debug\Urok 9 Vodyannikov 24.04.pdb

@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\bin\Debug\Urok 13 Водянников.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\bin\Debug\Urok 13 Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\bin\Debug\Urok 13 Водянников.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok 13 Водянников.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok_13_Водянников.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok_13_Водянников.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok 13 Водянников.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok 13 Водянников.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok 13 Водянников.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 13 Водянников\Urok 13 Водянников\obj\Debug\Urok 13 Водянников.pdb

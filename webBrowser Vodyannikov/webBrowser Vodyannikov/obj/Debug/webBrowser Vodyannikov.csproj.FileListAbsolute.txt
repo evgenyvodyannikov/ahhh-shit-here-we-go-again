@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\bin\Debug\webBrowser Vodyannikov.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\bin\Debug\webBrowser Vodyannikov.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\bin\Debug\webBrowser Vodyannikov.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser Vodyannikov.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser_Vodyannikov.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser_Vodyannikov.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser Vodyannikov.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser Vodyannikov.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\obj\Debug\webBrowser Vodyannikov.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\webBrowser Vodyannikov\webBrowser Vodyannikov\bin\Debug\Properties\web.txt

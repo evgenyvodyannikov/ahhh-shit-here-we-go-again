@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\bin\Debug\Vodyannikov Srtings 2.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\bin\Debug\Vodyannikov Srtings 2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\bin\Debug\Vodyannikov Srtings 2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov Srtings 2.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov_Srtings_2.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov_Srtings_2.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov Srtings 2.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov Srtings 2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vodyannikov Srtings 2\Vodyannikov Srtings 2\obj\Debug\Vodyannikov Srtings 2.pdb

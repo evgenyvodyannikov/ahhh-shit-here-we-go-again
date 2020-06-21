@@ -1,0 +1,14 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\bin\Debug\Урок_12.Задание_1.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\bin\Debug\Урок_12.Задание_1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\bin\Debug\Урок_12.Задание_1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок 12. Задание 1.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Zadanie1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Zadanie4.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Main.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок 12. Задание 1.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок 12. Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Zadanie2.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\15.05\Урок 12. Задание 1\Урок 12. Задание 1\obj\Debug\Урок_12.Задание_1.Zadanie3.resources

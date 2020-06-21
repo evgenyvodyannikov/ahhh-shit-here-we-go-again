@@ -1,0 +1,12 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\bin\Debug\Urok 10 30.04.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\bin\Debug\Urok 10 30.04.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\bin\Debug\Urok 10 30.04.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok_10_30._04.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok_10_30._04.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok 10 30.04.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok 10 30.04.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok 10 30.04.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok_10_30._04.Zadanie1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok 10 30.04.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok_10_30._04.Zadanie2.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Urok 10 30.04\Urok 10 30.04\obj\Debug\Urok_10_30._04.Zadanie3.resources

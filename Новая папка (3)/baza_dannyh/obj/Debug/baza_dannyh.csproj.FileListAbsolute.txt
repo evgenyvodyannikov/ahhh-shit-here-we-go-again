@@ -1,0 +1,38 @@
+H:\БД\VS\baza_dannyh\baza_dannyh\bin\Debug\baza_dannyh.exe.config
+H:\БД\VS\baza_dannyh\baza_dannyh\bin\Debug\test.accdb
+H:\БД\VS\baza_dannyh\baza_dannyh\bin\Debug\baza_dannyh.exe
+H:\БД\VS\baza_dannyh\baza_dannyh\bin\Debug\baza_dannyh.pdb
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.csprojResolveAssemblyReference.cache
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.Form1.resources
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.Properties.Resources.resources
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.csproj.GenerateResource.Cache
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.exe
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.pdb
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.addform.resources
+H:\БД\VS\baza_dannyh\baza_dannyh\obj\Debug\baza_dannyh.SearchForm.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\bin\Debug\test.accdb
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.addform.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.SearchForm.resources
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.exe
+C:\Users\vodya\OneDrive\Рабочий стол\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\test.accdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\baza_dannyh.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.addform.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.SearchForm.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\obj\Debug\baza_dannyh.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\Properties\test.accdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Новая папка (3)\baza_dannyh\bin\Debug\Properties\test2.mdb

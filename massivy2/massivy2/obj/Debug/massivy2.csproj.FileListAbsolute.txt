@@ -1,0 +1,9 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\bin\Debug\massivy2.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\bin\Debug\massivy2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\bin\Debug\massivy2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\massivy2\massivy2\obj\Debug\massivy2.pdb
